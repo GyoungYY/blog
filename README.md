@@ -5,3 +5,6 @@
 
 ### 模块化
 [前端模块化详解(完整版)](https://segmentfault.com/a/1190000017466120)
+
+### JavaScript
+[关于URL编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
